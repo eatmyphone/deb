@@ -7,3 +7,4 @@ So, i have create a Repo for legacy iDevice
 Lot of .deb is a very old deb, lot of developer like Intelliborn, no respond to my mail, so i have download old "cracked" .deb for still use lot of best tweak !
 
 ## all Hackulous .deb is added.
+## Add Philippe97 Deb file (Philippe97 is a Canadian Dev for Jailbreak Community) Thank You so much Philippe !
