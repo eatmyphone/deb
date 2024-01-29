@@ -8,3 +8,5 @@ Lot of .deb is a very old deb, lot of developer like Intelliborn, no respond to 
 
 ## all Hackulous .deb is added.
 ## Add Philippe97 Deb file (Philippe97 is a Canadian Dev for Jailbreak Community) Thank You so much Philippe !
+
+## Weathericon6 (work with WeatherX from Electimon's repo) and Lockinfo 5 was add (for lockinfo no work for i5 idk why)
